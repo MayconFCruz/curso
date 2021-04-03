@@ -72,7 +72,7 @@ public class Curso {
 		   resultado =(double) a/b;
 		   System.out.println(resultado);
 		   
-		   //Obs:Neste caso não é mais necessário usar o casting, pois o java atualizou. Agora ele converte automaticamente de double para int.\\
+		   //Obs:não é mais necessário usar o casting, pois o java atualizou. Agora ele converte automaticamente de double para int.\\
 		   
 		   a = 5.0;
 		   b = a;
